@@ -467,7 +467,7 @@
       "builder":"Best Friend 3",
       "city":null,
       "icon":null,
-      "link":"https://play.google.com/store/apps/details?id=dev.briyani.subscriptions"
+      "link":""
    },
    {
       "id":"brainiq",
@@ -477,7 +477,7 @@
       "builder":"ShipKaro Member",
       "city":null,
       "icon":null,
-      "link":"https://play.google.com/store/apps/details?id=com.tsolutions.brainiq"
+      "link":""
    },
    {
       "id":"cashlytics-tracker",
