@@ -26,7 +26,7 @@
       "description":"AI headshots/photo generator",
       "builder":"Basit Bhatti",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/kfHnKz_QcvM-qihP46pSh650cv6k4KMyqrmuqJxT88zzl7bwDkn8qiycQs9HNn13bUu8y6Ku9BvCfzZI17OtXg=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.vivd.labs.photo.editor.image.generator"
    },
    {
@@ -36,7 +36,7 @@
       "description":"AI voice-to-text transcription SaaS (Mac + Android)",
       "builder":"Mudasir Hussain Hyderabad",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/Arz48ojOIo6LP3LcrACxEzqz2-jTghNBYtNbCIuU4ReTeAp4d7Bo82-No203SqE0FFb47UVvteBENYZto-RCTA=w240-h480-rw",
       "link":"https://lumevoice.com"
    },
    {
@@ -86,7 +86,7 @@
       "description":"AI recipe planner app (Android pre-registration + iOS)",
       "builder":"Jahan Alam Sindh Uni",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/p36tbhqIqxYhfZgFZ50bMRqhGCxvSfN5VGm_zXk_Pot3UEBe94bUfKBMzbHGtXqOIqftmw6ql4BJLy_eP3GclEs=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.itcians.begumgees"
    },
    {
@@ -116,7 +116,7 @@
       "description":"Wardrobe management app",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/XzUaKr3V0Y1sILH-8AOYqGCaa6lWKDNNzTVZUe3cpktAyqraSi70EkfaZBTmroIarUny9Lz07VHKYUKrKUm8=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.keepr.wardrobe&hl=en-US"
    },
    {
@@ -126,7 +126,7 @@
       "description":"Thulla card game Android app",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/b7i7tA623y_zQjOpOb6zO8xXDz6s3QvJcUruZxKLYqm2m04hdK0pNROo8ZRol-vhG8OP-9ppIz1bnu7xNHVC=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.faizandev43.thullaandroid"
    },
    {
@@ -166,17 +166,17 @@
       "description":"Geo-tagged, SHA-hashed proof-capture app for site inspectors and field teams",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/_Zfb8btDUszq0dfYpHhuPTBnXCxjWsBeD1N3HMACmKW82VbVHZJKa1KZ1oqr4eAIVYLslPjCVFKtfPHZc37p=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.done.proofapp"
    },
    {
       "id":"sadastocks",
-      "name":"SadaStocks",
+      "name":"SmartFolio",
       "type":"android",
       "description":"Stock/mutual-fund tracking app (tracks mutual fund top holdings)",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/MpHTAl_xtntykdb4_9VhbXP0rUQTXT5Q6QYCF-VtXgC2Uy_Dmu4A15QE3iCjKeDbg22tA9_TcY-SVXo-wxgssA=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.sadastocks"
    },
    {
@@ -196,7 +196,7 @@
       "description":"Religious/Muslim app (released 2023, 100M+ installs)",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/zVgQ9roPw0fXZWTdMtpg6EK6GDnsfsnqwXDZN4nFVMuz8tHXJvr3kPLMZ8yVNRJrEiblZ841MwQNAXqids4toQ=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.fyxtech.muslim"
    },
    {
@@ -206,7 +206,7 @@
       "description":"Video/media player app",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/JY8S4YY7pWREguK6V-mVW03ggJ6A5C2uRPqJXtI4k51_fg9zM74MBM2bKMVY0ljTPHdlhtwUVErdwBOu2dC0tQ=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.zyro.vmplayer.player"
    },
    {
@@ -216,7 +216,7 @@
       "description":"Hand-built (non-vibe-coded) Android app seeking marketing help",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/abYOMiH_hwQR7Ef0hdg2zIMcpyPBPauwryXtCB6bG-A6VQ_m2uY7Nx9Ho59sKFzGOIDokRzasUPBEoOP_5E-=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.basitcreation.app"
    },
    {
@@ -226,7 +226,7 @@
       "description":"Karachi local bus routes finder; search routes between two locations",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/bP8tZ8ayq0OEfW5Cove23pfwstgn2zqE8y5kzkCo5Phdp7yV1_4GJ4ZRrt2sDog9WHC4rJfTRasgjG1sH1yCvg=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.kbrl.mapapp"
    },
    {
@@ -236,7 +236,7 @@
       "description":"Poetry collection app of the builder's father; audio coming",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/584gxepie-q2yWZL1Z7Zj3mUt1aXlkLc20Xebfu4VslDQNMVlTqlsQBRxrAmAo124e7YduuAkka1owLDIw8Ur4I=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.poetryapp.mereyaaroun"
    },
    {
@@ -266,7 +266,7 @@
       "description":"Monthly budget and expense tracker (Play Store + App Store)",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/FkFIJhhSwvww-JTnT_E4Se88uMLMHKiPYbGyfifo85o5-Jbk39efXeqOPpKgmhx72y3XiOwXCMLnQ2GXhKAUsQ=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.dk.spendbook.app"
    },
    {
@@ -346,7 +346,7 @@
       "description":"First published Android app (hand-coded)",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/qr7Qo5c8ITOt5p8m5XqdzTvtQ-gBQGB4UEeaiH4FS1c_g6UjJhMZ6gVzdkf6JYDyO_5COENdNNsGOY7yKpliBQ=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.devawais.ronaldo"
    },
    {
@@ -366,7 +366,7 @@
       "description":"Prayer times and azan reminder app",
       "builder":"Ahmed Tahir weekend 3",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/HwDmIyv1eIRnPlX-WHI55HC7l9ddICPr7DgfVQ8Pu4DkemPLYgd-r1BLAmXL5bb3JI-9YrAfD2fV0nzBQedunIg=s256-rw",
       "link":"https://play.google.com/store/apps/details?id=com.avirise.praytimes.azanreminder"
    },
    {
@@ -376,7 +376,7 @@
       "description":"Calories tracking app (Play Store only)",
       "builder":"ShipKaro Member",
       "city":null,
-      "icon":null,
+      "icon":"https://play-lh.googleusercontent.com/vAsFwP4iWI0ssi3IaXlgWtp2cFpel6a7kEGBkoMryC9HpptPcuR7WVY8TJa-37TF--T90MpxSfYM_o592miSXg=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.caleye.caloriescounter"
    },
    {
